@@ -98,15 +98,6 @@ class SignUpViewController: UIViewController {
     
     
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
     @IBAction func signUpButtonTapped(_ sender: UIButton) {
         view.endEditing(true)
         
